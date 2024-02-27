@@ -23,7 +23,7 @@
  - callback hell <br>
  - security concerns <br>
  - Debugging and tooling <br>
- - Limited CPU utilization
+ - Limited CPU utilization.
 
 # Runtime Environment 
 - The runtime provide a environment where javascrit code is executed outside the browser.<br>
